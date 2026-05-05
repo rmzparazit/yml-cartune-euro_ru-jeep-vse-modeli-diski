@@ -1,0 +1,816 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-05 23:43">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3209322531">Диски для Jeep: все модели</category>
+    </categories>
+    <offers>
+      <offer id="224116870133413744890765690555864837225" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2012 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_554.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_555.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_556.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_557.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2012</model>
+        <description>Оригинальные диски Jeep Grand Cherokee 2012, снятые с автомобиля. Размер 8Jx18 ET33 5x127. Без сварки и трещин. В наличии в Москве</description>
+        <sales_notes>Без сварки и трещин 8Jx18 ET33 5x127</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUP74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">15454874</param>
+        <param name="Размер">8Jx18 ET33 5x127</param>
+      </offer>
+      <offer id="251775690819445418478821301153245653593" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2012 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_554.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_555.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_556.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_557.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2012</model>
+        <description>Контрактные диски Jeep Grand Cherokee 2012 WKUP74 ERB. Состояние отличное, без дефектов. Подходят для замены</description>
+        <sales_notes>Без сварки и трещин 8Jx18 ET33 5x127</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUP74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">15454874</param>
+        <param name="Размер">8Jx18 ET33 5x127</param>
+      </offer>
+      <offer id="185861723979175742566109161757484753927" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2012 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_554.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_555.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_556.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_557.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2012</model>
+        <description>Диски на Jeep Grand Cherokee 2012, артикул 15454874. Проверены, готовы к установке. Цена 49 999 руб</description>
+        <sales_notes>Без сварки и трещин 8Jx18 ET33 5x127</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUP74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">15454874</param>
+        <param name="Размер">8Jx18 ET33 5x127</param>
+      </offer>
+      <offer id="58086777847532982320907688556049108377" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2012 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_554.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_555.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_556.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_557.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2012</model>
+        <description>Оригинальные диски Chrysler для Jeep Grand Cherokee 2012. Размер 8Jx18, вылет ET33, сверловка 5x127</description>
+        <sales_notes>Без сварки и трещин 8Jx18 ET33 5x127</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUP74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">15454874</param>
+        <param name="Размер">8Jx18 ET33 5x127</param>
+      </offer>
+      <offer id="267441867623216235139698237785880022060" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2012 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_554.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_555.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_556.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_557.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2012</model>
+        <description>Диски с разборки Jeep Grand Cherokee 2012. Без сварки и трещин. В наличии на складе в Москве</description>
+        <sales_notes>Без сварки и трещин 8Jx18 ET33 5x127</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUP74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">15454874</param>
+        <param name="Размер">8Jx18 ET33 5x127</param>
+      </offer>
+      <offer id="51127724180368350692511539132372193843" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2012 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_554.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_555.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_556.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_557.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2012</model>
+        <description>Комплект дисков Jeep Grand Cherokee 2012. Состояние хорошее. Подходят для WKUP74 с двигателем ERB</description>
+        <sales_notes>Без сварки и трещин 8Jx18 ET33 5x127</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUP74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">15454874</param>
+        <param name="Размер">8Jx18 ET33 5x127</param>
+      </offer>
+      <offer id="14099531304498355822410686330452742208" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2014 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_624.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_625.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_626.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_627.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Оригинальные диски с Jeep Grand Cherokee 2014, кузов WKUH74, двигатель ERB. Размер 8Jx18, вылет ET 56.4 мм, ЦО 71.5 мм, крепеж 5x127. Без сварки и трещин</description>
+        <sales_notes>В наличии Москва, цена 49 999</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">1VH40TRMAB</param>
+        <param name="Размер">8Jx18</param>
+        <param name="Вылет (ET)">56.4 мм</param>
+        <param name="Диаметр ступицы (ЦО)">71.5 мм</param>
+        <param name="Крепеж">5x127</param>
+      </offer>
+      <offer id="213312802376600574004680023297564932953" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2014 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_624.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_625.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_626.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_627.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Контрактные диски от Jeep Grand Cherokee 2014. Параметры: 8Jx18, ET 56.4, ЦО 71.5, 5x127. Состояние отличное, без дефектов</description>
+        <sales_notes>В наличии Москва, цена 49 999</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">1VH40TRMAB</param>
+        <param name="Размер">8Jx18</param>
+        <param name="Вылет (ET)">56.4 мм</param>
+        <param name="Диаметр ступицы (ЦО)">71.5 мм</param>
+        <param name="Крепеж">5x127</param>
+      </offer>
+      <offer id="190513258943007288109149184283481684003" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2014 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_624.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_625.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_626.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_627.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Оригинальные диски Chrysler для Jeep Grand Cherokee 2014. Размер 8Jx18, вылет 56.4 мм, ступица 71.5 мм, 5 отверстий. Без сварки и трещин</description>
+        <sales_notes>В наличии Москва, цена 49 999</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">1VH40TRMAB</param>
+        <param name="Размер">8Jx18</param>
+        <param name="Вылет (ET)">56.4 мм</param>
+        <param name="Диаметр ступицы (ЦО)">71.5 мм</param>
+        <param name="Крепеж">5x127</param>
+      </offer>
+      <offer id="236358907001358469693724489086436343274" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2014 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_624.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_625.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_626.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_627.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Диски с Jeep Grand Cherokee 2014 (WKUH74, ERB). 8Jx18, ET 56.4, ЦО 71.5, 5x127. Оригинал, без повреждений</description>
+        <sales_notes>В наличии Москва, цена 49 999</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">1VH40TRMAB</param>
+        <param name="Размер">8Jx18</param>
+        <param name="Вылет (ET)">56.4 мм</param>
+        <param name="Диаметр ступицы (ЦО)">71.5 мм</param>
+        <param name="Крепеж">5x127</param>
+      </offer>
+      <offer id="195230883083264680967223396903990707566" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2014 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_624.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_625.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_626.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_627.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Комплект дисков от Jeep Grand Cherokee 2014. Размер 8Jx18, вылет ET 56.4 мм, диаметр ступицы 71.5 мм, крепеж 5x127. Состояние хорошее</description>
+        <sales_notes>В наличии Москва, цена 49 999</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">1VH40TRMAB</param>
+        <param name="Размер">8Jx18</param>
+        <param name="Вылет (ET)">56.4 мм</param>
+        <param name="Диаметр ступицы (ЦО)">71.5 мм</param>
+        <param name="Крепеж">5x127</param>
+      </offer>
+      <offer id="253995483579055628959156902392328911757" available="true" type="vendor.model">
+        <name>Диски Jeep Grand Cherokee 2014 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <price>49999</price>
+        <oldprice>54998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_624.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_625.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_626.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_627.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Оригинальные диски на Jeep Grand Cherokee 2014. Параметры: 8Jx18, ET 56.4, ЦО 71.5, 5x127. Без сварки и трещин, в наличии</description>
+        <sales_notes>В наличии Москва, цена 49 999</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">1VH40TRMAB</param>
+        <param name="Размер">8Jx18</param>
+        <param name="Вылет (ET)">56.4 мм</param>
+        <param name="Диаметр ступицы (ЦО)">71.5 мм</param>
+        <param name="Крепеж">5x127</param>
+      </offer>
+      <offer id="158413317798375447056875578800336553524" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler TJ 151758 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/07/0011_07_511.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_123.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_124.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_125.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler TJ 151758</model>
+        <description>Оригинальные диски ProComp 8.5J ET0 R17 с резиной BFGoodrich Mud-Terrain T/A 37x12.5 R17 127Q. Сняты с Jeep Wrangler. В наличии на складе в Москве</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="262042995770774101360740958967603743781" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler TJ 151758 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/07/0011_07_511.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_123.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_124.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_125.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler TJ 151758</model>
+        <description>Комплект дисков ProComp 8.5J ET0 R17 и шин BFGoodrich Mud-Terrain T/A 37x12.5 R17 127Q. Контрактные, состояние б/у. Доступны для заказа</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="299779468467117696944062397234500172238" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler TJ 151758 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/07/0011_07_511.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_123.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_124.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_125.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler TJ 151758</model>
+        <description>Диски ProComp 8.5J ET0 R17 с грязевой резиной BFGoodrich Mud-Terrain T/A 37x12.5 R17 127Q. Идеально для внедорожья. В наличии</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="96500451118381384916628096155683134915" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler TJ 151758 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/07/0011_07_511.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_123.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_124.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_125.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler TJ 151758</model>
+        <description>Колёса в сборе: диски ProComp 8.5J ET0 R17 и шины BFGoodrich Mud-Terrain T/A 37x12.5 R17 127Q. Сняты с Jeep Wrangler TJ</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="103928793033660295391306215486916566149" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler TJ 151758 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/07/0011_07_511.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_123.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_124.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_125.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler TJ 151758</model>
+        <description>Диски ProComp 8.5J ET0 R17 с резиной BFGoodrich Mud-Terrain T/A 37x12.5 R17 127Q. Оригинальные, контрактные. В наличии на складе</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="197171304643788300606442431045975452675" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler TJ 151758 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/07/0011_07_511.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_123.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_124.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_125.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler TJ 151758</model>
+        <description>Комплект дисков и шин для Jeep Wrangler TJ: ProComp 8.5J ET0 R17, BFGoodrich Mud-Terrain T/A 37x12.5 R17 127Q. Б/у, в хорошем состоянии</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="174269742432905214637846680090262014278" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler 2 1997 TJ c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_026.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_539.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_540.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_541.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler 2 1997 TJ</model>
+        <description>Оригинальные диски 8J R15 5х114.3 ЦО 71.5 без варок и трещин. Резина Toyo M/T 33x10.5 R15LT. Продажа в сборе. Сняты с Jeep Wrangler 2 1997</description>
+        <sales_notes>В наличии на складе Москва. Продажа в сборе</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Двигатель">ERH</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">331015</param>
+        <param name="Размеры">8J R15</param>
+        <param name="PCD">5х114.3</param>
+        <param name="ЦО">71.5</param>
+        <param name="Резина">Toyo M/T 33x10.5 R15LT 114P</param>
+      </offer>
+      <offer id="100513358794589090388528624176137472310" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler 2 1997 TJ с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_026.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_539.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_540.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_541.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler 2 1997 TJ</model>
+        <description>Комплект дисков 8J R15 с резиной Toyo M/T 33x10.5 R15LT. Оригинал, без дефектов. Подходят на Wrangler 2 TJ</description>
+        <sales_notes>В наличии на складе Москва. Продажа в сборе</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Двигатель">ERH</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">331015</param>
+        <param name="Размеры">8J R15</param>
+        <param name="PCD">5х114.3</param>
+        <param name="ЦО">71.5</param>
+        <param name="Резина">Toyo M/T 33x10.5 R15LT 114P</param>
+      </offer>
+      <offer id="81178522063603240586797472460980938806" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler 2 1997 TJ заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_026.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_539.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_540.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_541.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler 2 1997 TJ</model>
+        <description>Диски 8J R15 5х114.3 ЦО 71.5 от Jeep Wrangler 2 1997. Резина Toyo M/T без дефектов. Продажа в сборе</description>
+        <sales_notes>В наличии на складе Москва. Продажа в сборе</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Двигатель">ERH</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">331015</param>
+        <param name="Размеры">8J R15</param>
+        <param name="PCD">5х114.3</param>
+        <param name="ЦО">71.5</param>
+        <param name="Резина">Toyo M/T 33x10.5 R15LT 114P</param>
+      </offer>
+      <offer id="130707719976875626104181532544824480159" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler 2 1997 TJ купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_026.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_539.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_540.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_541.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler 2 1997 TJ</model>
+        <description>Оригинальные диски Chrysler 8J R15. Резина Toyo M/T 33x10.5 R15LT. Без варок и трещин. Сняты с Wrangler 2 TJ</description>
+        <sales_notes>В наличии на складе Москва. Продажа в сборе</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Двигатель">ERH</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">331015</param>
+        <param name="Размеры">8J R15</param>
+        <param name="PCD">5х114.3</param>
+        <param name="ЦО">71.5</param>
+        <param name="Резина">Toyo M/T 33x10.5 R15LT 114P</param>
+      </offer>
+      <offer id="204941456199908829806148190685177982565" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler 2 1997 TJ по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_026.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_539.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_540.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_541.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler 2 1997 TJ</model>
+        <description>Комплект: диски 8J R15 резина Toyo M/T 33x10.5 R15LT. Оригинал, состояние отличное. Подходят на Wrangler 2</description>
+        <sales_notes>В наличии на складе Москва. Продажа в сборе</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Двигатель">ERH</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">331015</param>
+        <param name="Размеры">8J R15</param>
+        <param name="PCD">5х114.3</param>
+        <param name="ЦО">71.5</param>
+        <param name="Резина">Toyo M/T 33x10.5 R15LT 114P</param>
+      </offer>
+      <offer id="154052948722278225949710697828232701334" available="true" type="vendor.model">
+        <name>Диски Jeep Wrangler 2 1997 TJ узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_026.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_539.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_540.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_541.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Wrangler 2 1997 TJ</model>
+        <description>Диски 8J R15 PCD 5х114.3 ЦО 71.5. Резина Toyo M/T без дефектов. Продажа в сборе. Сняты с Jeep Wrangler 2 1997</description>
+        <sales_notes>В наличии на складе Москва. Продажа в сборе</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Б/У</custom_label_1>
+        <custom_label_2>Chrysler</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Двигатель">ERH</param>
+        <param name="Год">1997</param>
+        <param name="Номер по производителю">331015</param>
+        <param name="Размеры">8J R15</param>
+        <param name="PCD">5х114.3</param>
+        <param name="ЦО">71.5</param>
+        <param name="Резина">Toyo M/T 33x10.5 R15LT 114P</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_224116870133413744890765690555864837225">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <name>Диски Jeep Grand Cherokee 2012 c доставкой</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUP74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+      </collection>
+      <collection id="col_251775690819445418478821301153245653593">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <name>Диски Jeep Grand Cherokee 2012 с гарантией</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUP74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+      </collection>
+      <collection id="col_185861723979175742566109161757484753927">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <name>Диски Jeep Grand Cherokee 2012 заказать</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUP74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+      </collection>
+      <collection id="col_58086777847532982320907688556049108377">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <name>Диски Jeep Grand Cherokee 2012 купить</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUP74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+      </collection>
+      <collection id="col_267441867623216235139698237785880022060">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <name>Диски Jeep Grand Cherokee 2012 по низкой цене</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUP74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+      </collection>
+      <collection id="col_51127724180368350692511539132372193843">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b4/</url>
+        <name>Диски Jeep Grand Cherokee 2012 узнать стоимость</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUP74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_553.jpg</picture>
+      </collection>
+      <collection id="col_14099531304498355822410686330452742208">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <name>Диски Jeep Grand Cherokee 2014 c доставкой</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+      </collection>
+      <collection id="col_213312802376600574004680023297564932953">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <name>Диски Jeep Grand Cherokee 2014 с гарантией</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+      </collection>
+      <collection id="col_190513258943007288109149184283481684003">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <name>Диски Jeep Grand Cherokee 2014 заказать</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+      </collection>
+      <collection id="col_236358907001358469693724489086436343274">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <name>Диски Jeep Grand Cherokee 2014 купить</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+      </collection>
+      <collection id="col_195230883083264680967223396903990707566">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <name>Диски Jeep Grand Cherokee 2014 по низкой цене</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+      </collection>
+      <collection id="col_253995483579055628959156902392328911757">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b8/</url>
+        <name>Диски Jeep Grand Cherokee 2014 узнать стоимость</name>
+        <description>Контрактная Диски Chrysler Grand Cherokee (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_623.jpg</picture>
+      </collection>
+      <collection id="col_158413317798375447056875578800336553524">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <name>Диски Jeep Wrangler TJ 151758 c доставкой</name>
+        <description>Контрактная Диски Chrysler Jeep Wrangler TJ 151758</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+      </collection>
+      <collection id="col_262042995770774101360740958967603743781">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <name>Диски Jeep Wrangler TJ 151758 с гарантией</name>
+        <description>Контрактная Диски Chrysler Jeep Wrangler TJ 151758</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+      </collection>
+      <collection id="col_299779468467117696944062397234500172238">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <name>Диски Jeep Wrangler TJ 151758 заказать</name>
+        <description>Контрактная Диски Chrysler Jeep Wrangler TJ 151758</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+      </collection>
+      <collection id="col_96500451118381384916628096155683134915">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <name>Диски Jeep Wrangler TJ 151758 купить</name>
+        <description>Контрактная Диски Chrysler Jeep Wrangler TJ 151758</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+      </collection>
+      <collection id="col_103928793033660295391306215486916566149">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <name>Диски Jeep Wrangler TJ 151758 по низкой цене</name>
+        <description>Контрактная Диски Chrysler Jeep Wrangler TJ 151758</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+      </collection>
+      <collection id="col_197171304643788300606442431045975452675">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dafce/</url>
+        <name>Диски Jeep Wrangler TJ 151758 узнать стоимость</name>
+        <description>Контрактная Диски Chrysler Jeep Wrangler TJ 151758</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_122.jpg</picture>
+      </collection>
+      <collection id="col_174269742432905214637846680090262014278">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <name>Диски Jeep Wrangler 2 1997 TJ c доставкой</name>
+        <description>Контрактная Диски Chrysler Wrangler 2 (кузов TJ, двс ERH)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+      </collection>
+      <collection id="col_100513358794589090388528624176137472310">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <name>Диски Jeep Wrangler 2 1997 TJ с гарантией</name>
+        <description>Контрактная Диски Chrysler Wrangler 2 (кузов TJ, двс ERH)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+      </collection>
+      <collection id="col_81178522063603240586797472460980938806">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <name>Диски Jeep Wrangler 2 1997 TJ заказать</name>
+        <description>Контрактная Диски Chrysler Wrangler 2 (кузов TJ, двс ERH)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+      </collection>
+      <collection id="col_130707719976875626104181532544824480159">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <name>Диски Jeep Wrangler 2 1997 TJ купить</name>
+        <description>Контрактная Диски Chrysler Wrangler 2 (кузов TJ, двс ERH)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+      </collection>
+      <collection id="col_204941456199908829806148190685177982565">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <name>Диски Jeep Wrangler 2 1997 TJ по низкой цене</name>
+        <description>Контрактная Диски Chrysler Wrangler 2 (кузов TJ, двс ERH)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+      </collection>
+      <collection id="col_154052948722278225949710697828232701334">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cf/</url>
+        <name>Диски Jeep Wrangler 2 1997 TJ узнать стоимость</name>
+        <description>Контрактная Диски Chrysler Wrangler 2 (кузов TJ, двс ERH)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/13/0008_13_538.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
